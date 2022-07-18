@@ -1,4 +1,4 @@
-package Introduction;
+package introduction;
 
 class Student {
     int rollNo;
